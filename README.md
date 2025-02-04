@@ -42,4 +42,10 @@ npm start
 yarn start
 ```
 
-### The development server will start, and you can view the project by navigating to http://localhost:3000 in your web browser.
+#### The development server will start, and you can view the project by navigating to http://localhost:3000 in your web browser.
+
+### Project Structure
+
+#### 1. src/components: Contains the React components used in the project.
+#### 2. src/index.tsx: The entry point of the application.
+#### 3. public: Contains the static assets and the HTML template.
