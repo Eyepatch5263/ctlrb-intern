@@ -13,7 +13,7 @@ const Backlinks = () => {
                     <div className='flex flex-col flex-1 h-[15.8rem] border border-gray-300 p-5 items-center scale-80 ml-6 my-4 bg-white  rounded-md w-[16rem]'>
                         <div className='flex items-center space-x-2 pb-4 justify-center'>
                             <Link className='text-blue-500'/>
-                            <p className='text-lg font-medium text-gray-600'>{"Citation Flow"}</p>
+                            <p className='text-lg font-bold text-gray-600'>{"Citation Flow"}</p>
                         </div>
                         <ContinousDonutChart value='55' color={"#F864EC"} ColorRes='#FCB3F6' />
                     </div>
