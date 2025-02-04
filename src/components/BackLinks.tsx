@@ -1,6 +1,6 @@
 import React from 'react'
 import ReusableTitle from './ReusableTitle'
-import { BarChart, Link } from 'lucide-react'
+import { Link } from 'lucide-react'
 import BacklinksChart from './BacklinksChart'
 import ContinousDonutChart from './ContinousDonutChart'
 

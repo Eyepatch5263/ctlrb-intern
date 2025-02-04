@@ -1,6 +1,6 @@
 "use client"
 import React, { useEffect, useState } from 'react'
-import { PieChart, Pie, Cell, ResponsiveContainer, Legend, Label } from 'recharts';
+import { PieChart, Pie, Cell, ResponsiveContainer, Label } from 'recharts';
 const data = [
     { name: 'Referal', value: 30 },
     { name: 'Organic Search', value: 70 },

@@ -1,3 +1,7 @@
+![Dashboard Screenshot](https://res.cloudinary.com/dvnrlqqpq/image/upload/v1738692622/Screenshot_2025-02-04_233844_khtusw.png)
+
+![Dashboard Screenshot](https://res.cloudinary.com/dvnrlqqpq/image/upload/v1738692622/Screenshot_2025-02-04_233909_m2z631.png)
+
 # Intern Dashboard
 
 This project is an intern dashboard built with React and Recharts. It includes various components such as bar charts and pie charts to visualize data.
