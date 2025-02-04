@@ -47,5 +47,4 @@ yarn start
 ### Project Structure
 
 #### 1. src/components: Contains the React components used in the project.
-#### 2. src/index.tsx: The entry point of the application.
-#### 3. public: Contains the static assets and the HTML template.
+#### 2. public: Contains the static assets and the HTML template.
